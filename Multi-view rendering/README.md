@@ -1,5 +1,5 @@
 # MV-TransReID Multi-view rendering
-## install Pytorch3d
+## 1.install Pytorch3d
 The core library is written in PyTorch. Several components have underlying implementation in CUDA for improved performance. A subset of these components have CPU implementations in C++/PyTorch. It is advised to use PyTorch3D with GPU support in order to use all the features.
 - Linux or macOS or Windows
 - Python 3.8, 3.9 or 3.10
@@ -28,7 +28,7 @@ tar xzf 1.10.0.tar.gz
 export CUB_HOME=$PWD/cub-1.10.0
 ```
 
-## Multi-view rendering
+## 2.Multi-view rendering
 ```
 python render.py
 ```
