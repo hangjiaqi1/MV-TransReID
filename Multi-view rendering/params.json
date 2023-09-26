@@ -1,0 +1,9 @@
+{
+    "image_size": 1024,
+    "camera_dist": 2.2,   
+    "elevation": [90,135, 135, 135,135,135,180,225,225,225,225,225,270],
+    "azim_angle": [0,30,90,180,270,330,0,30,90,180,270,330,0],
+    "obj_filename": "data/human/human.obj",
+    "z_coord": 0     
+    }
+    
