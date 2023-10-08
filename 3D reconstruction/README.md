@@ -27,8 +27,7 @@ pip instal open3d
 
 3. Run the demo
 ```
-python -m demo --img_path data/coco1.png
-python -m demo --img_path data/im1954.jpg
+python -m demo --img_path data/0001_c1s1_001051_00.jpg
 ```
 
 
