@@ -29,5 +29,6 @@ pip instal open3d
 ```
 python -m demo --img_path data/0001_c1s1_001051_00.jpg
 ```
+The reconstruction results can be found at the path ./MV-TransReID/3D reconstruction/test.obj.
 
 
