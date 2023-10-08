@@ -19,10 +19,13 @@ pip instal open3d
 
 ### Demo
 
-1. Download the pre-trained models：[Google disk](https://drive.google.com/file/d/19nymcyBRBL5i0i-TByR9O4yTeuNU5DA5/view?usp=sharing)
-and unzip under path: ./MV-TransReID/3D reconstruction.
+1. Download the pre-trained models
 
-2. Run the demo
+   Download URL: [Google disk](https://drive.google.com/file/d/19nymcyBRBL5i0i-TByR9O4yTeuNU5DA5/view?usp=sharing)
+   
+   unzip under path: ./MV-TransReID/3D reconstruction.
+
+3. Run the demo
 ```
 python -m demo --img_path data/coco1.png
 python -m demo --img_path data/im1954.jpg
