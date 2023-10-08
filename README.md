@@ -14,3 +14,6 @@ Thanks for your attention. In this repo, we provide the code and dataset for the
 
 
  MV-TransReID source code and multi-view datasets will be open source after this paper is accepted.
+
+ # Acknoledgements
+ This paper and repo borrows codes and ideas from several great github repos: [MVTN](https://github.com/ajhamdi/MVTN), [hmr](https://github.com/layumi/hmr), and most importantly the great [Pytorch3D](https://github.com/facebookresearch/pytorch3d) library.
