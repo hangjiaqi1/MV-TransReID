@@ -19,10 +19,8 @@ pip instal open3d
 
 ### Demo
 
-1. Download the pre-trained models
-```
-wget https://people.eecs.berkeley.edu/~kanazawa/cachedir/hmr/models.tar.gz && tar -xf models.tar.gz
-```
+1. Download the pre-trained models：[Google disk](https://drive.google.com/file/d/19nymcyBRBL5i0i-TByR9O4yTeuNU5DA5/view?usp=sharing)
+and unzip under path: ./MV-TransReID/3D reconstruction.
 
 2. Run the demo
 ```
