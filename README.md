@@ -8,7 +8,7 @@ Thanks for your attention. In this repo, we provide the code and dataset for the
 # Open-source  schedule
 
 
-**08 Oct 2023.** Open source the process of [3D reconstruction](https://github.com/hangjiaqi1/MV-TransReID/blob/main/3D%20reconstruction) and [multi-view rendering]()
+**08 Oct 2023.** Open source the process of [3D reconstruction](https://github.com/hangjiaqi1/MV-TransReID/blob/main/3D%20reconstruction) and [multi-view rendering](https://github.com/hangjiaqi1/MV-TransReID/tree/main/Multi-view%20rendering)
 
 
 
